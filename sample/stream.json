@@ -1,0 +1,15 @@
+{
+  "budget": 2,
+  "buckets": 8,
+  "name_error_code": "E_BAD_NAME",
+  "buckets_error_code": "E_BAD_BUCKETS",
+  "event_error_code": "E_BAD_EVENT",
+  "state": { "reg": [0, 0, 0, 0, 0, 0, 0, 0], "seen": 0, "ledger": [], "applied": [] },
+  "events": [
+    { "id": 1, "kind": "add", "name": "a" },
+    { "id": 2, "kind": "add", "name": "b" },
+    { "id": 3, "kind": "add", "name": "h" },
+    { "id": 4, "kind": "add", "name": "d" },
+    { "id": 5, "kind": "add", "name": "a" }
+  ]
+}
